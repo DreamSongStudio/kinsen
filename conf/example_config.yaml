@@ -1,0 +1,7 @@
+elastic:
+  "host": "host:port"
+  "timeout": 3000
+  "elasticName": ""
+  "elasticPassWord": ""
+
+
